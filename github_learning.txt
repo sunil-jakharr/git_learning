@@ -16,6 +16,19 @@ $ git status
 to checl all the untracked files in the local repos cloned in the local, shows up in read
 
 
+-- makes changes in this stage to the files
+--- to add all the chnaged files to the branch but not yet commited
+Git add . 
+here . adds all the files to which chnages have been made
+
+-- commiting the chnages to main branch
+git commit -m "inital commit check of txt file"
+
+-- the commit does commit the the local repo. tp push it to  the main remote repo
+we make use of the git push commnand
+
+ Git Push  
+ used to push the chnages to the remote repo
 
 
 
