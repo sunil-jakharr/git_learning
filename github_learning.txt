@@ -26,8 +26,14 @@ git commit -m "inital commit check of txt file"
 * the commit does commit the the local repo. tp push it to  the main remote repo
   we make use of the git push commnand
 
- Git Push  
+ git Push  
  used to push the chnages to the remote repo
+
+------------------------------------------------------------
+
+
+
+
 
 
 
