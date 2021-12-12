@@ -40,6 +40,10 @@ git checkout branch_name-- to swtich between the different branches
 git checkout -b branch_name -- to create a new branch and switch to that branch
 
 
+-- to push the changes of the new branch to new branch in the remote repo
+git push --set-upstream origin dummy_branch -- when the branch is not present in the
+						remote repo use this command
+
 
 
 
