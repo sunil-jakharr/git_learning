@@ -30,6 +30,18 @@ git commit -m "inital commit check of txt file"
  used to push the chnages to the remote repo
 
 ----------------------------------------------------------------------------------
+branch:
+git branch -list   --to list all the branches in the local
+
+git branch branch_name-- to create new branch
+
+git checkout branch_name-- to swtich between the different branches
+
+git checkout -b branch_name -- to create a new branch and switch to that branch
+
+
+
+
 
 
 
