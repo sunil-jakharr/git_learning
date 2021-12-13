@@ -47,7 +47,9 @@ git push --set-upstream origin branch_name -- when the branch is not present in 
 
 -----------------------------------------------------------------------------------
 Merge Branches :
-check 1
+
+in order to merge branch to master first switch to master always
+git checkout maste_branch_name
 
 
 
