@@ -60,6 +60,9 @@ git add .
 git commit -m messagfe
 git push 
 
+delete branches:
+git branch -d branch_name
+
 
 
 
