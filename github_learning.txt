@@ -61,8 +61,9 @@ git commit -m messagfe
 git push 
 
 delete branches:
-git branch -d branch_name
+git branch -d branch_name  -- locally deletes
 
+git push origin :dummy_branch2 -- deleted remote branch also
 
 
 
