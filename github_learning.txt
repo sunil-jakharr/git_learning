@@ -46,6 +46,8 @@ git push --set-upstream origin branch_name -- when the branch is not present in 
 
 
 -----------------------------------------------------------------------------------
+Merge Branches :
+check 1
 
 
 
