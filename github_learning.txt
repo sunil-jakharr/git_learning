@@ -51,6 +51,17 @@ Merge Branches :
 in order to merge branch to master first switch to master always
 git checkout maste_branch_name
 
+git merge dummy_branch -- to merge branch to master, firs tbe on master and 
+                          then this commnd, then :q to quit
+
+
+if no error then commit to remotee master branch, to see updted code in the remote repo
+git add .
+git commit -m messagfe
+git push 
+
+
+
 
 
 
